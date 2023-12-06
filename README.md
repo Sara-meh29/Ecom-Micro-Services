@@ -15,3 +15,20 @@ Lancement du Service Gateway
 Access au service Customers apartir du Gateway
 ![final-step-gatewayservice-verifCustomeraservice](https://github.com/Sara-meh29/Ecom-Micro-Services/assets/129114540/adcb8a33-54d3-4e25-9b3b-18f5b301d89a)
 
+#Part 2:
+-step 1 Inventory service 
+Creation et lancement du Inventory service 
+![p2 creer lancer inventory service](https://github.com/Sara-meh29/Ecom-Micro-Services/assets/129114540/a6aa8879-09bd-4693-b36c-31b3e29f9e89)
+Access a Inventory service via gateway et voir les produits 
+![p2 cree lancer acceder via gateway voir products](https://github.com/Sara-meh29/Ecom-Micro-Services/assets/129114540/0d4a1750-44b4-4c89-a108-dec34004172d)
+voir les produits avec projection
+![p2 cree lancer acceder via gateway voir products avec projection full](https://github.com/Sara-meh29/Ecom-Micro-Services/assets/129114540/9d0983b1-fe53-433e-b4ae-d619d849b042)
+-Step 2 Order service
+Creation et lancement du service Order et access a partir du gateway pour voir les orders 
+![p2 cree orderservice et lancee](https://github.com/Sara-meh29/Ecom-Micro-Services/assets/129114540/bbbe6d3c-8bf6-49ca-9e5f-868646fae181)
+access a partir du gateway pour voir details d'un order
+![p2 cree orderservice et lancee puis voir order details](https://github.com/Sara-meh29/Ecom-Micro-Services/assets/129114540/c904ace3-212d-40a8-ab43-bbb5bf84cc96)
+Consulter les orders a partir du H2 Consol 
+![p2 cree orderservice et lancee puis h2 console](https://github.com/Sara-meh29/Ecom-Micro-Services/assets/129114540/f70f7e1a-6c75-4084-9da7-fb648f3c76cb)
+
+
